@@ -1,1 +1,6 @@
 /* Add application styles & imports to this file! */
+.container {
+  height: 100%;
+  padding: 15px;
+  overflow-y: auto;
+}
